@@ -33,8 +33,7 @@ LOGOUT_REDIRECT_URL = '/'
 
 # Application definition
 
-INSTALLED_APPS = [
-    'django_rename_app',
+INSTALLED_APPS = [s
     'conversation',
     'dashboard',
     'core',
